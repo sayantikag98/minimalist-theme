@@ -1,0 +1,21 @@
+{
+    "name": "minimalist-theme",
+    "displayName": "Minimalist_theme",
+    "description": "A simple dark theme for having an engaging experience while coding",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimalist_theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimalist_theme-color-theme.json"
+            }
+        ]
+    }
+}
