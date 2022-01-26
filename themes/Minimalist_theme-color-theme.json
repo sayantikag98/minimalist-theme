@@ -12,6 +12,8 @@
 		"tab.activeBackground": "#182628",
 		"tab.inactiveBackground": "#2a3638",
 		"statusBar.background": "#182328",
+		"statusBar.noFolderBackground" : "#182328",
+    	"statusBar.debuggingBackground": "#182328",
 		"titleBar.activeBackground": "#192221",
 		"titleBar.border": "#ffffff",
 		"panel.border": "#ffffff",
