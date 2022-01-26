@@ -2,9 +2,20 @@
     "name": "minimalist-theme",
     "displayName": "Minimalist_theme",
     "description": "A simple dark theme for having an engaging experience while coding",
-    "version": "0.0.1",
+    "publisher": "sayantikag98",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "icon": "icons/logo.png",
+    "author": {
+        "name": "Sayantika Ghosh",
+        "email": "sayantikaghosh98@gmail.com",
+        "url": "https://sayantika-ghosh.vercel.app/"
+    },
+    "repository": {
+        "url": "https://github.com/sayantikag98/minimalist-theme.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
