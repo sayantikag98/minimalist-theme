@@ -5,7 +5,14 @@
 		"editor.background": "#182628",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#f0b535"
+		"sideBarTitle.foreground": "#f0b535",
+		"sideBar.foreground": "#ffb414",
+		"sideBar.background": "#1f2d30",
+		"activityBar.background": "#182628",
+		"tab.activeBackground": "#182628",
+		"tab.inactiveBackground": "#2a3638",
+		"statusBar.background": "#182328",
+		"titleBar.activeBackground": "#192221"
 	},
 	"tokenColors": [
 		{
@@ -189,7 +196,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#e6acde"
+				"foreground": "#f5b4a4"
 			}
 		},
 		{
