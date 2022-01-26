@@ -5,16 +5,16 @@ A simple dark theme inspired by Monokai Pro theme.
 ## Screenshots
 
 ### HTML
-![HTML Syntax Example](/icons/html-example.png?raw=true "HTML Syntax Example")
+![HTML Syntax Example](/screenshots/html-example.png?raw=true "HTML Syntax Example")
 
 ### CSS
-![CSS Syntax Example](/icons/css-example.png?raw=true "CSS Syntax Example")
+![CSS Syntax Example](/screenshots/css-example.png?raw=true "CSS Syntax Example")
 
 ### Javascript
-![Javascript Syntax Example](/icons/js-example.png?raw=true "Javascript Syntax Example")
+![Javascript Syntax Example](/screenshots/js-example.png?raw=true "Javascript Syntax Example")
 
 ### C++
-![C++ Syntax Example](/icons/cpp-example.png?raw=true "C++ Syntax Example")
+![C++ Syntax Example](/screenshots/cpp-example.png?raw=true "C++ Syntax Example")
 
 
 **Enjoy!**

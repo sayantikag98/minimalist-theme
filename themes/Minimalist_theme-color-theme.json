@@ -12,7 +12,19 @@
 		"tab.activeBackground": "#182628",
 		"tab.inactiveBackground": "#2a3638",
 		"statusBar.background": "#182328",
-		"titleBar.activeBackground": "#192221"
+		"titleBar.activeBackground": "#192221",
+		"titleBar.border": "#ffffff",
+		"panel.border": "#ffffff",
+		"breadcrumb.background": "#252f31",
+		"sideBar.border": "#ffffff",
+		"statusBar.border": "#ffffff",
+		"activityBar.border": "#ffffff",
+		"panel.background": "#1f2d30",
+		"quickInput.background": "#1f2d30",
+		"quickInputList.focusBackground": "#384e52",
+		"editorGroup.border": "#ffffff",
+		"dropdown.background": "#1f2d30",
+		"checkbox.background": "#1f2d30"
 	},
 	"tokenColors": [
 		{
