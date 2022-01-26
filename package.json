@@ -3,7 +3,7 @@
     "displayName": "Minimalist_theme",
     "description": "A simple dark theme for having an engaging experience while coding",
     "publisher": "sayantikag98",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.63.0"
     },
